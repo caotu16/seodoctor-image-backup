@@ -74,6 +74,6 @@ Hãy đọc kỹ hướng dẫn sử dụng trước khi chạy trên hệ thố
 
 ## Tác giả & giấy phép
 
-- Tác giả: SEO Doctor (Tú Cao). 
+- Tác giả: SEO Doctor (Tú Cao) - https://nguyencaotu.com
 - Website: https://seodoctor.vn  
-- Mã nguồn: được public tại repository này để cộng đồng có thể tham khảo, kiểm tra và tùy chỉnh cho nhu cầu riêng. [seodoctor](https://seodoctor.vn/cong-cu-phan-mem-seo/phan-mem-lam-loc-toi-uu-luu-tru-hinh-anh-cho-website-seo-doctor-image-backup.html)
+- Mã nguồn: được public tại repository này để cộng đồng có thể tham khảo, kiểm tra và tùy chỉnh cho nhu cầu riêng.
